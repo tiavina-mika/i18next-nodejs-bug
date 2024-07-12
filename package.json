@@ -1,7 +1,7 @@
 {
-  "name": "i18next-nodejs-bug",
+  "name": "i18next-nodejs-express",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple i18next example with nodejs and express",
   "main": "index.js",
   "author": {
     "name": "Tiavina Michael Ralainirina",
