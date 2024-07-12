@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "author": {
+    "name": "Tiavina Michael Ralainirina",
+    "email": "tiavinamika@gmail.com",
+    "github": "https://github.com/tiavina-mika"
+  },
   "scripts": {
     "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,8 +18,15 @@
     "i18next-fs-backend": "^2.3.1",
     "i18next-http-middleware": "^3.6.0"
   },
-  "keywords": [],
-  "author": "tiavina-mika",
+  "keywords": [
+    "i18next",
+    "nodejs",
+    "express",
+    "i18next-fs-backend",
+    "i18next-http-middleware",
+    "i18n-express",
+    "i18n-nodejs"
+  ],
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^3.1.4"
