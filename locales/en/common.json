@@ -1,0 +1,4 @@
+{
+  "greeting": "Hello {{name}}!",
+  "message": "Welcome to i18next!"
+}
